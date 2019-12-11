@@ -4,6 +4,7 @@
   <div id="app">
         <CvHeader />
         <Intro />
+        <About />
   </div>
 
 
@@ -13,12 +14,14 @@
 <script>
   import CvHeader from "./components/CvHeader";
   import Intro from './components/Intro';
+  import About from './components/About';
 
 export default {
   name: 'app',
   components: {
     CvHeader,
-    Intro
+    Intro,
+    About
   }
 
 }

@@ -1,6 +1,12 @@
 {
+  "name": "Shaitan Vladimir",
+  "fullName":"Shaitan Vladimir Sergeevich",
+  "birthDate": "February 01, 1997",
+  "bio": "Lorem ipsum Exercitation culpa qui dolor consequat exercitation fugiat laborum ex ea eiusmod ad do aliqua occaecat nisi ad irure sunt id pariatur Duis laboris amet exercitation veniam labore consectetur ea id quis eiusmod.",
+  "currentPosition": "Freelancer, Full Stack Developer",
+  "website": "vs-dev.info",
+  "email": "shaitan.vlaidmir@gmail.com",
   "positions": ["Full Stack Developer", "Front-end Trainer"],
-  "name": "I'm Shaitan Vladimir",
   "socials": [
     {
       "name": "facebook",

@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-twelve">
                     <h5>Hello, World.</h5>
-                    <h1>{{aboutMe.name}}</h1>
+                    <h1>I'm {{aboutMe.name}}</h1>
                     <p class="intro-position">
                         <span v-for="(position, index) in aboutMe.positions" :key="index">
                             {{position}}
@@ -30,7 +30,7 @@
 
     export default {
         name: "Intro",
-        data: function () {
+        data() {
             return {
                 aboutMe: about,
             };
