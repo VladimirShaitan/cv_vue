@@ -1,28 +1,33 @@
 <template>
+
+
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+        <CvHeader />
+        <Intro />
   </div>
+
+
+
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+  import CvHeader from "./components/CvHeader";
+  import Intro from './components/Intro';
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    CvHeader,
+    Intro
   }
+
 }
 </script>
 
+
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+  @import "assets/css/base.css";
+  @import "assets/css/main.css";
+  @import "assets/css/vendor.css";
+
 </style>
