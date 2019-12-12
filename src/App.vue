@@ -7,6 +7,7 @@
         <About />
         <Resume />
         <Portfolio />
+        <Services />
   </div>
 
 
@@ -19,6 +20,7 @@
   import About from './components/About';
   import Resume from './components/Resume';
   import Portfolio from './components/Portfolio';
+  import Services from './components/Services';
 
 export default {
   name: 'app',
@@ -27,7 +29,9 @@ export default {
     Intro,
     About,
     Resume,
-    Portfolio
+    Portfolio,
+    Services
+
   }
 
 }
