@@ -6,6 +6,7 @@
         <Intro />
         <About />
         <Resume />
+        <Portfolio />
   </div>
 
 
@@ -17,6 +18,7 @@
   import Intro from './components/Intro';
   import About from './components/About';
   import Resume from './components/Resume';
+  import Portfolio from './components/Portfolio';
 
 export default {
   name: 'app',
@@ -24,7 +26,8 @@ export default {
     CvHeader,
     Intro,
     About,
-    Resume
+    Resume,
+    Portfolio
   }
 
 }
