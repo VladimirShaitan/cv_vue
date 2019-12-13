@@ -8,6 +8,8 @@
         <Resume />
         <Portfolio />
         <Services />
+        <Certificates />
+        <Popup />
   </div>
 
 
@@ -21,6 +23,8 @@
   import Resume from './components/Resume';
   import Portfolio from './components/Portfolio';
   import Services from './components/Services';
+  import Certificates from './components/Certificates';
+  import Popup from './components/popup/popup'
 
 export default {
   name: 'app',
@@ -30,8 +34,9 @@ export default {
     About,
     Resume,
     Portfolio,
-    Services
-
+    Services,
+    Certificates,
+    Popup
   }
 
 }
