@@ -1,6 +1,6 @@
 <template>
     <div id="popups">
-        <div class="overlay"></div>
+        <div class="overlay" @click="closePop('imagesPop')"></div>
         <div class="popupsWrapper">
             <div id="imagesPop" class="pop-content">
                 <div class="close-pop"><i @click="closePop('imagesPop')" class="fa fa-times"></i></div>
