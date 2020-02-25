@@ -21,7 +21,7 @@
                             <input name="contactSubject" required type="text" id="contactSubject" placeholder="Subject">
                         </div>
                         <div class="form-field">
-                            <textarea name="contactMessage" required id="contactMessage" placeholder="message" rows="10" cols="50" style="margin: 0px; width: 738px; height: 255px;resize:none"></textarea>
+                            <textarea name="contactMessage" required id="contactMessage" placeholder="message" rows="10" cols="50" style="margin: 0px; max-width: 738px; height: 255px;resize:none"></textarea>
                         </div>
                         <div class="form-field">
                             <button class="submitform">Submit</button>
