@@ -3,7 +3,11 @@
         <div class="overlay" @click="closePop('imagesPop')"></div>
         <div class="popupsWrapper">
             <div id="imagesPop" class="pop-content">
-                <div class="close-pop"><i @click="closePop('imagesPop')" class="fa fa-times"></i></div>
+                <div class="close-pop">
+                    <a target="_blank" download><i class="fa fa-download"></i></a>
+                    
+                    <i @click="closePop('imagesPop')" class="fa fa-times"></i>
+                </div>
                 <img src="" alt="">
             </div>
         </div>

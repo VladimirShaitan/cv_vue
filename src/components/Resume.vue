@@ -31,9 +31,9 @@
                     </template>
 
                 </div> <!-- /timeline-wrap -->
-                <div class="text-center view_more">
-                    <a href="#" title="Download CV" class="button button-primary">View more</a>
-                </div>
+<!--                <div class="text-center view_more">-->
+<!--                    <a href="#" title="Download CV" class="button button-primary">View more</a>-->
+<!--                </div>-->
             </div> <!-- /col-twelve -->
         </div> <!-- /resume-timeline -->
         <div class="row resume-timeline">
@@ -62,9 +62,9 @@
 
                 </div> <!-- /timeline-wrap -->
 
-                <div class="text-center view_more">
-                    <a href="#" title="Download CV" class="button button-primary" style="margin-bottom: 0">View more</a>
-                </div>
+<!--                <div class="text-center view_more">-->
+<!--                    <a href="#" title="Download CV" class="button button-primary" style="margin-bottom: 0">View more</a>-->
+<!--                </div>-->
 
             </div> <!-- /col-twelve -->
         </div> <!-- /resume-timeline -->

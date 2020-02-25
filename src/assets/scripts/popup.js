@@ -4,6 +4,7 @@ export default {
         document.querySelector(`#popups #${popId}`).classList.add('open');
         document.querySelector('#popups .overlay').classList.add('open');
         document.querySelector(`#popups #${popId} img`).src = src;
+        document.querySelector(`#popups a`).href = src;
         pageOffset =  pageYOffset;
 
         window.addEventListener('scroll', this.scrollListener);

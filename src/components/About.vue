@@ -50,7 +50,7 @@
         </div>
         <div class="row button-section">
             <div class="col-twelve">
-                <a href="#contact" title="Hire Me" class="button stroke smoothscroll">Hire Me</a>
+                <a href="#contact" title="Contact me" class="button stroke smoothscroll">Contact me</a>
                 <a href="https://drive.google.com/uc?authuser=0&id=1MPCsB9DTjUPEcWODXHufUN4ufZHw5QCO&export=download" title="Download CV" class="button button-primary" target="_blank">Download CV</a>
             </div>
         </div>

@@ -5,7 +5,9 @@
             <div class="col-twelve">
                 <h5>Services</h5>
                 <h1>What Can I Do For You?</h1>
-                <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+                <p class="lead">
+                    A website I think because I'm a web developer, but also we can drink some ( tea? no way! ) and talk about things
+                </p>
             </div>
         </div> <!-- /section-intro -->
         <div class="row services-content">
